@@ -1,6 +1,7 @@
 import { Flex } from '@chakra-ui/react'
 import { useState } from 'react'
 
+
 import Content from './content/Content.jsx'
 import Footer from './footer/Footer.jsx'
 import Header from './header/Header.jsx'
